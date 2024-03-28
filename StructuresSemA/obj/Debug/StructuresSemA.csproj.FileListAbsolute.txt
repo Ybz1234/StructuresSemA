@@ -1,0 +1,7 @@
+C:\Users\jonat\source\repos\StructuresSemA\StructuresSemA\bin\Debug\StructuresSemA.exe.config
+C:\Users\jonat\source\repos\StructuresSemA\StructuresSemA\bin\Debug\StructuresSemA.exe
+C:\Users\jonat\source\repos\StructuresSemA\StructuresSemA\bin\Debug\StructuresSemA.pdb
+C:\Users\jonat\source\repos\StructuresSemA\StructuresSemA\obj\Debug\StructuresSemA.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\StructuresSemA\StructuresSemA\obj\Debug\StructuresSemA.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\StructuresSemA\StructuresSemA\obj\Debug\StructuresSemA.exe
+C:\Users\jonat\source\repos\StructuresSemA\StructuresSemA\obj\Debug\StructuresSemA.pdb
